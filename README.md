@@ -1,2 +1,2 @@
 # crypto_project
-Crypto tradingg bot
+Crypto trading bot
